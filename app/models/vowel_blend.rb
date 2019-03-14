@@ -1,0 +1,2 @@
+class VowelBlend < ApplicationRecord
+end

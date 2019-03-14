@@ -1,0 +1,2 @@
+class LongVowel < ApplicationRecord
+end

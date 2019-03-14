@@ -1,0 +1,2 @@
+class ShortVowel < ApplicationRecord
+end
